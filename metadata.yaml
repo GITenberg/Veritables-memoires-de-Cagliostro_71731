@@ -1,0 +1,37 @@
+_repo: Veritables-memoires-de-Cagliostro_71731
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lesclide, Richard
+    gutenberg_agent_id: '56364'
+    url: http://www.gutenberg.org/2009/agents/56364
+  - agent_name: Mendès, Catulle
+    aliases:
+    - Mendes, Catulle
+    - Mendès, Catulles
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '6188'
+    url: http://www.gutenberg.org/2009/agents/6188
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Catulle_Mend%C3%A8s
+    - https://fr.wikipedia.org/wiki/Catulle_Mend%C3%A8s
+description: ''
+gutenberg_issued: '2023-09-26'
+identifiers:
+  gutenberg: '71731'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k109215h
+pgterms:marc905: 20230909231636mends
+pgterms:marc906: '1892'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bE. Dentu, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Véritables mémoires de Cagliostro
+url: http://www.gutenberg.org/ebooks/71731
